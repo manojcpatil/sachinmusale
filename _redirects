@@ -1,0 +1,21 @@
+# Old WordPress URLs -> new static pages. Deploy-time redirect map (Netlify/Cloudflare format).
+# Demo/scaffold pages from the old theme — these should 301 to the portfolio, not 404.
+/shortcodes/*            /portfolio.html            301
+/portfolio/*             /portfolio.html            301
+/footer/                 /                         301
+/footer-portfolio/       /portfolio.html            301
+/test/                   /portfolio.html            301
+/wishlist/               /portfolio.html            301
+/shop/                   /portfolio.html            301
+/video/                  /exhibitions.html          301
+/stories/                /about.html                301
+/blog/                   /about.html                301
+/about-us/               /about.html                301
+/achievements/           /exhibitions.html          301
+/exhibitions/            /exhibitions.html          301
+/classes/                /classes.html              301
+/contacts/               /contact.html              301
+/contact-us/             /contact.html              301
+/portfolio                /portfolio.html            301
+# Keep the old portfolio grid (the ~50-image dump) pointing at the new collections.
+/wp-content/uploads/*    /assets/img/:splat         301
