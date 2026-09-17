@@ -1,70 +1,1236 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.sachinmusale.com/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-<url><loc>https://www.sachinmusale.com/1000-faces.html</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-<url><loc>https://www.sachinmusale.com/portfolio.html</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>.9</priority></url>
-<url><loc>https://www.sachinmusale.com/portraits.html</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>.9</priority></url>
-<url><loc>https://www.sachinmusale.com/sketches.html</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>.8</priority></url>
-<url><loc>https://www.sachinmusale.com/landscapes.html</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>.8</priority></url>
-<url><loc>https://www.sachinmusale.com/conceptual.html</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq><priority>.8</priority></url>
-<url><loc>https://www.sachinmusale.com/commission.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>.9</priority></url>
-<url><loc>https://www.sachinmusale.com/exhibitions.html</loc><lastmod>2026-09-17</lastmod><changefreq>yearly</changefreq><priority>.7</priority></url>
-<url><loc>https://www.sachinmusale.com/about.html</loc><lastmod>2026-09-17</lastmod><changefreq>yearly</changefreq><priority>.7</priority></url>
-<url><loc>https://www.sachinmusale.com/contact.html</loc><lastmod>2026-09-17</lastmod><changefreq>yearly</changefreq><priority>.6</priority></url>
-<url><loc>https://www.sachinmusale.com/classes.html</loc><lastmod>2026-09-17</lastmod><changefreq>yearly</changefreq><priority>.5</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-sardarji-01.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-vishranti-02.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-hasya-03.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-shikshak-04.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-vada-05.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-bandh-hath-06.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-sahib-07.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-sakha-08.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-lajja-09.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-jodi-10.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-subah-11.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-swami-12.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-pandit-13.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-utsav-14.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-dosti-01.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-hasyaras-02.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-maa-03.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-kaam-04.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-sparsh-05.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-charcoal-sketch-tejas-06.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-topiwala-07.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-vichar-08.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-sanj-09.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-hasyamukti-10.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-asha-11.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-chhokra-12.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-charcoal-sketch-nishchay-13.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-musafir-14.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-navras-15.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-deul-01.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-kinara-02.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-ghat-03.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-sandhyakal-04.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-ves-05.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-nandi-06.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-bagicha-07.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-jal-mahal-08.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-gaadi-09.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-bangla-10.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-tal-11.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-sanjvela-12.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-pahaat-13.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-hima-14.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-dhuka-15.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-galli-17.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-bakuli-18.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-dhara-19.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-conceptual-conceptual-dhyan-01.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-conceptual-conceptual-panna-02.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-bhar-03.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-goshta-04.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-shal-05.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-oil-conceptual-kamal-06.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-chadhai-07.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-yatra-08.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+  <loc>https://www.sachinmusale.com/</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/hero-og.jpg</image:loc>
+    <image:title>Original paintings by Sachin Musale, Jalgaon</image:title>
+    <image:caption>Watercolour and charcoal artworks by Jalgaon artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/1000-faces.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/portfolio.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sardarji-01-742.webp</image:loc>
+    <image:title>Sardarji — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of an elderly Sikh man in an orange turban with a full white beard, looking straight at the viewer, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-vishranti-02-751.webp</image:loc>
+    <image:title>Vishranti — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a young woman seated on a rock in denim, hand in her hair, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-hasya-03-756.webp</image:loc>
+    <image:title>Hasya — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a smiling man in spectacles and a white shirt, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-shikshak-04-751.webp</image:loc>
+    <image:title>Shikshak — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in a white cap standing before a school gate with children in the grounds behind him, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-vada-05-751.webp</image:loc>
+    <image:title>Vada — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of an elderly man in a white turban and head cloth, weathered face, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-bandh-hath-06-751.webp</image:loc>
+    <image:title>Bandh Hāth — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in glasses standing with his arms crossed beside a wall, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sahib-07-751.webp</image:loc>
+    <image:title>Sahib — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a distinguished older man in a dark blazer, tie and spectacles, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sakha-08-751.webp</image:loc>
+    <image:title>Sakha — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a curly-haired bearded man in a cream jacket, smiling, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-lajja-09-751.webp</image:loc>
+    <image:title>Lajja — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a young woman in a blue and red sari with a gold necklace, eyes lowered, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-jodi-10-751.webp</image:loc>
+    <image:title>Jodi — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a smiling couple standing together in formal Indian dress, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-subah-11-751.webp</image:loc>
+    <image:title>Subah — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a moustached man in glasses and a light shirt against a soft pink wash, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-swami-12-751.webp</image:loc>
+    <image:title>Swami — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a bearded sage in saffron robes wearing a rudraksha bead necklace, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-pandit-13-1000.webp</image:loc>
+    <image:title>Pandit — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in glasses and a moustache, painted in a monochrome grey wash, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-utsav-14-1000.webp</image:loc>
+    <image:title>Utsav — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a woman in a pink sari seated outdoors against palms, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-dosti-01-1000.webp</image:loc>
+    <image:title>Dosti — Graphite and charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Pencil and charcoal drawing of a smiling couple, an informal two-figure study from life, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-hasyaras-02-1000.webp</image:loc>
+    <image:title>Hāsyaras — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil drawing of two men laughing together with an arm around the shoulder, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-maa-03-1000.webp</image:loc>
+    <image:title>Maa — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil drawing of a mother holding her young child close in a protective embrace, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-kaam-04-1000.webp</image:loc>
+    <image:title>Kaam — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of four hands holding and using charcoal and pencil drawing tools, an anatomy drawing study, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-sparsh-05-1000.webp</image:loc>
+    <image:title>Sparsh — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of two hands clasped together, an anatomy drawing study, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-charcoal-sketch-tejas-06-751.webp</image:loc>
+    <image:title>Tejas — Charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Charcoal portrait of a smiling young man with a tilak mark on his forehead, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-topiwala-07-751.webp</image:loc>
+    <image:title>Topiwala — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of an elderly bearded man in spectacles wearing a dark fez cap, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-vichar-08-751.webp</image:loc>
+    <image:title>Vichar — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of a seated man in spectacles resting his chin on his hand, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-sanj-09-751.webp</image:loc>
+    <image:title>Sanj — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a young woman with long dark hair in a patterned blouse, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-hasyamukti-10-751.webp</image:loc>
+    <image:title>Hasyamukti — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of an older man in spectacles laughing openly, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-asha-11-751.webp</image:loc>
+    <image:title>Asha — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a young woman looking up and smiling, drawn in soft shading, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-chhokra-12-751.webp</image:loc>
+    <image:title>Chhokra — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a boy with a quiff hairstyle in a striped jacket, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-charcoal-sketch-nishchay-13-751.webp</image:loc>
+    <image:title>Nishchay — Charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Charcoal portrait of a bearded man in a plaid jacket over a collared shirt, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-musafir-14-751.webp</image:loc>
+    <image:title>Musafir — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a bearded man wearing an embroidered skull cap, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-navras-15-751.webp</image:loc>
+    <image:title>Navras — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of a small child looking up with an open mouth, head and shoulders, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-deul-01-1000.webp</image:loc>
+    <image:title>Deul — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a white temple with a shikhara spire seen down a leafy village path with a figure walking, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-kinara-02-1000.webp</image:loc>
+    <image:title>Kināra — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of wooden fishing boats resting on wet sand at low tide with a lone figure on the shoreline, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-ghat-03-1000.webp</image:loc>
+    <image:title>Ghat — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a riverside ghat and stone bridge with figures walking along a tree-lined bank, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-sandhyakal-04-1000.webp</image:loc>
+    <image:title>Sandhyākāl — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of boats moored on still, misty water at dusk with the far bank reflected, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-ves-05-1000.webp</image:loc>
+    <image:title>Ves — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a sunny old-town street corner with a shuttered building and overhead wires, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-nandi-06-1000.webp</image:loc>
+    <image:title>Nandi — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour study of a large stone Nandi bull sculpture with a garland, the mount of Lord Shiva, against a pale wash, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bagicha-07-1000.webp</image:loc>
+    <image:title>Bagicha — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a formal terrace garden with a stone balustrade and shade trees, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-jal-mahal-08-933.webp</image:loc>
+    <image:title>Jal Mahal — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a domed palace pavilion standing in a lake, reflected in rippling blue water, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-gaadi-09-1000.webp</image:loc>
+    <image:title>Gaadi — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a bullock cart loaded with green fodder on a village road with a building beyond, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bangla-10-1000.webp</image:loc>
+    <image:title>Bangla — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a colonial bungalow with a long tree-lined driveway and a figure walking, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-tal-11-1000.webp</image:loc>
+    <image:title>Tal — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a garden path with tall palms, a pavilion and steps under a blue sky, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-sanjvela-12-750.webp</image:loc>
+    <image:title>Sanjvela — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a street at dusk with a scooter rider, a street lamp and hills beyond, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-pahaat-13-1000.webp</image:loc>
+    <image:title>Pahaat — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a ploughed field at sunrise under a graded orange and blue sky with birds, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-hima-14-998.webp</image:loc>
+    <image:title>Hima — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a snow-covered village with a bright orange house and bare trees under a heavy sky, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-dhuka-15-1000.webp</image:loc>
+    <image:title>Dhukā — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of misty parkland at sunrise with tall trees casting long shadows and a distant figure, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-galli-17-1000.webp</image:loc>
+    <image:title>Galli — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a leafy lane with a white gate and a dog on the path, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bakuli-18-1000.webp</image:loc>
+    <image:title>Bakuli — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a calm lake at dawn with herons standing in the shallows beside a stone embankment, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-dhara-19-751.webp</image:loc>
+    <image:title>Dhārā — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a waterfall cascading over rocks with buildings and an arched bridge beside it, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-conceptual-conceptual-dhyan-01-751.webp</image:loc>
+    <image:title>Dhyan — Mixed media on canvas by Sachin Musale</image:title>
+    <image:caption>Atmospheric painting of a serene Buddha head wearing a jewelled crown, emerging from darkness in warm earth tones, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-conceptual-conceptual-panna-02-751.webp</image:loc>
+    <image:title>Panna — Mixed media on canvas by Sachin Musale</image:title>
+    <image:caption>Painting of a seated Buddha figure rendered in luminous green tones against a dark ground, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-bhar-03-707.webp</image:loc>
+    <image:title>Bhar — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a labourer carrying a loaded yoke across his shoulders against a large glowing sky, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-goshta-04-750.webp</image:loc>
+    <image:title>Goshta — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a young girl sitting reading a book with a doll hanging on the wall above her, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-shal-05-751.webp</image:loc>
+    <image:title>Shāl — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a seated woman wrapped in a shawl leaning against a weathered wall, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-oil-conceptual-kamal-06-715.webp</image:loc>
+    <image:title>Kamal — Oil on canvas by Sachin Musale</image:title>
+    <image:caption>Oil painting of a young boy seated beside a basket of pink water lilies against a deep green wall, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-chadhai-07-770.webp</image:loc>
+    <image:title>Chadhai — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a long stone stairway climbing a bare hillside under a pale sky, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-yatra-08-769.webp</image:loc>
+    <image:title>Yatra — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of pilgrims with umbrellas entering a rock-cut cave complex on a wet day, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/portraits.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sardarji-01-742.webp</image:loc>
+    <image:title>Sardarji — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of an elderly Sikh man in an orange turban with a full white beard, looking straight at the viewer, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-vishranti-02-751.webp</image:loc>
+    <image:title>Vishranti — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a young woman seated on a rock in denim, hand in her hair, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-hasya-03-756.webp</image:loc>
+    <image:title>Hasya — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a smiling man in spectacles and a white shirt, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-shikshak-04-751.webp</image:loc>
+    <image:title>Shikshak — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in a white cap standing before a school gate with children in the grounds behind him, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-vada-05-751.webp</image:loc>
+    <image:title>Vada — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of an elderly man in a white turban and head cloth, weathered face, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-bandh-hath-06-751.webp</image:loc>
+    <image:title>Bandh Hāth — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in glasses standing with his arms crossed beside a wall, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sahib-07-751.webp</image:loc>
+    <image:title>Sahib — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a distinguished older man in a dark blazer, tie and spectacles, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sakha-08-751.webp</image:loc>
+    <image:title>Sakha — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a curly-haired bearded man in a cream jacket, smiling, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-lajja-09-751.webp</image:loc>
+    <image:title>Lajja — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a young woman in a blue and red sari with a gold necklace, eyes lowered, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-jodi-10-751.webp</image:loc>
+    <image:title>Jodi — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a smiling couple standing together in formal Indian dress, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-subah-11-751.webp</image:loc>
+    <image:title>Subah — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a moustached man in glasses and a light shirt against a soft pink wash, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-swami-12-751.webp</image:loc>
+    <image:title>Swami — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a bearded sage in saffron robes wearing a rudraksha bead necklace, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-pandit-13-1000.webp</image:loc>
+    <image:title>Pandit — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in glasses and a moustache, painted in a monochrome grey wash, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-utsav-14-1000.webp</image:loc>
+    <image:title>Utsav — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a woman in a pink sari seated outdoors against palms, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/sketches.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-dosti-01-1000.webp</image:loc>
+    <image:title>Dosti — Graphite and charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Pencil and charcoal drawing of a smiling couple, an informal two-figure study from life, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-hasyaras-02-1000.webp</image:loc>
+    <image:title>Hāsyaras — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil drawing of two men laughing together with an arm around the shoulder, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-maa-03-1000.webp</image:loc>
+    <image:title>Maa — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil drawing of a mother holding her young child close in a protective embrace, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-kaam-04-1000.webp</image:loc>
+    <image:title>Kaam — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of four hands holding and using charcoal and pencil drawing tools, an anatomy drawing study, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-sparsh-05-1000.webp</image:loc>
+    <image:title>Sparsh — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of two hands clasped together, an anatomy drawing study, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-charcoal-sketch-tejas-06-751.webp</image:loc>
+    <image:title>Tejas — Charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Charcoal portrait of a smiling young man with a tilak mark on his forehead, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-topiwala-07-751.webp</image:loc>
+    <image:title>Topiwala — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of an elderly bearded man in spectacles wearing a dark fez cap, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-vichar-08-751.webp</image:loc>
+    <image:title>Vichar — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of a seated man in spectacles resting his chin on his hand, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-sanj-09-751.webp</image:loc>
+    <image:title>Sanj — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a young woman with long dark hair in a patterned blouse, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-hasyamukti-10-751.webp</image:loc>
+    <image:title>Hasyamukti — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of an older man in spectacles laughing openly, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-asha-11-751.webp</image:loc>
+    <image:title>Asha — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a young woman looking up and smiling, drawn in soft shading, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-chhokra-12-751.webp</image:loc>
+    <image:title>Chhokra — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a boy with a quiff hairstyle in a striped jacket, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-charcoal-sketch-nishchay-13-751.webp</image:loc>
+    <image:title>Nishchay — Charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Charcoal portrait of a bearded man in a plaid jacket over a collared shirt, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-musafir-14-751.webp</image:loc>
+    <image:title>Musafir — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a bearded man wearing an embroidered skull cap, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-navras-15-751.webp</image:loc>
+    <image:title>Navras — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of a small child looking up with an open mouth, head and shoulders, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/landscapes.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-deul-01-1000.webp</image:loc>
+    <image:title>Deul — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a white temple with a shikhara spire seen down a leafy village path with a figure walking, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-kinara-02-1000.webp</image:loc>
+    <image:title>Kināra — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of wooden fishing boats resting on wet sand at low tide with a lone figure on the shoreline, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-ghat-03-1000.webp</image:loc>
+    <image:title>Ghat — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a riverside ghat and stone bridge with figures walking along a tree-lined bank, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-sandhyakal-04-1000.webp</image:loc>
+    <image:title>Sandhyākāl — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of boats moored on still, misty water at dusk with the far bank reflected, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-ves-05-1000.webp</image:loc>
+    <image:title>Ves — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a sunny old-town street corner with a shuttered building and overhead wires, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-nandi-06-1000.webp</image:loc>
+    <image:title>Nandi — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour study of a large stone Nandi bull sculpture with a garland, the mount of Lord Shiva, against a pale wash, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bagicha-07-1000.webp</image:loc>
+    <image:title>Bagicha — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a formal terrace garden with a stone balustrade and shade trees, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-jal-mahal-08-933.webp</image:loc>
+    <image:title>Jal Mahal — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a domed palace pavilion standing in a lake, reflected in rippling blue water, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-gaadi-09-1000.webp</image:loc>
+    <image:title>Gaadi — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a bullock cart loaded with green fodder on a village road with a building beyond, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bangla-10-1000.webp</image:loc>
+    <image:title>Bangla — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a colonial bungalow with a long tree-lined driveway and a figure walking, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-tal-11-1000.webp</image:loc>
+    <image:title>Tal — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a garden path with tall palms, a pavilion and steps under a blue sky, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-sanjvela-12-750.webp</image:loc>
+    <image:title>Sanjvela — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a street at dusk with a scooter rider, a street lamp and hills beyond, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-pahaat-13-1000.webp</image:loc>
+    <image:title>Pahaat — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a ploughed field at sunrise under a graded orange and blue sky with birds, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-hima-14-998.webp</image:loc>
+    <image:title>Hima — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a snow-covered village with a bright orange house and bare trees under a heavy sky, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-dhuka-15-1000.webp</image:loc>
+    <image:title>Dhukā — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of misty parkland at sunrise with tall trees casting long shadows and a distant figure, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-galli-17-1000.webp</image:loc>
+    <image:title>Galli — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a leafy lane with a white gate and a dog on the path, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bakuli-18-1000.webp</image:loc>
+    <image:title>Bakuli — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a calm lake at dawn with herons standing in the shallows beside a stone embankment, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-dhara-19-751.webp</image:loc>
+    <image:title>Dhārā — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a waterfall cascading over rocks with buildings and an arched bridge beside it, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/conceptual.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-conceptual-conceptual-dhyan-01-751.webp</image:loc>
+    <image:title>Dhyan — Mixed media on canvas by Sachin Musale</image:title>
+    <image:caption>Atmospheric painting of a serene Buddha head wearing a jewelled crown, emerging from darkness in warm earth tones, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-conceptual-conceptual-panna-02-751.webp</image:loc>
+    <image:title>Panna — Mixed media on canvas by Sachin Musale</image:title>
+    <image:caption>Painting of a seated Buddha figure rendered in luminous green tones against a dark ground, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-bhar-03-707.webp</image:loc>
+    <image:title>Bhar — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a labourer carrying a loaded yoke across his shoulders against a large glowing sky, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-goshta-04-750.webp</image:loc>
+    <image:title>Goshta — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a young girl sitting reading a book with a doll hanging on the wall above her, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-shal-05-751.webp</image:loc>
+    <image:title>Shāl — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a seated woman wrapped in a shawl leaning against a weathered wall, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-oil-conceptual-kamal-06-715.webp</image:loc>
+    <image:title>Kamal — Oil on canvas by Sachin Musale</image:title>
+    <image:caption>Oil painting of a young boy seated beside a basket of pink water lilies against a deep green wall, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-chadhai-07-770.webp</image:loc>
+    <image:title>Chadhai — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a long stone stairway climbing a bare hillside under a pale sky, by artist Sachin Musale</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-yatra-08-769.webp</image:loc>
+    <image:title>Yatra — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of pilgrims with umbrellas entering a rock-cut cave complex on a wet day, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/commission.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/exhibitions.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/about.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/contact.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.6</priority>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/classes.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-sardarji-01.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sardarji-01-742.webp</image:loc>
+    <image:title>Sardarji (The Sardar) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of an elderly Sikh man in an orange turban with a full white beard, looking straight at the viewer, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-vishranti-02.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-vishranti-02-751.webp</image:loc>
+    <image:title>Vishranti (At Rest) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a young woman seated on a rock in denim, hand in her hair, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-hasya-03.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-hasya-03-756.webp</image:loc>
+    <image:title>Hasya (The Smile) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a smiling man in spectacles and a white shirt, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-shikshak-04.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-shikshak-04-751.webp</image:loc>
+    <image:title>Shikshak (The Schoolmaster) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in a white cap standing before a school gate with children in the grounds behind him, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-vada-05.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-vada-05-751.webp</image:loc>
+    <image:title>Vada (The Elder) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of an elderly man in a white turban and head cloth, weathered face, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-bandh-hath-06.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-bandh-hath-06-751.webp</image:loc>
+    <image:title>Bandh Hāth (Arms Crossed) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in glasses standing with his arms crossed beside a wall, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-sahib-07.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sahib-07-751.webp</image:loc>
+    <image:title>Sahib (The Gentleman) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a distinguished older man in a dark blazer, tie and spectacles, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-sakha-08.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-sakha-08-751.webp</image:loc>
+    <image:title>Sakha (The Friend) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a curly-haired bearded man in a cream jacket, smiling, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-lajja-09.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-lajja-09-751.webp</image:loc>
+    <image:title>Lajja (She Looks Down) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a young woman in a blue and red sari with a gold necklace, eyes lowered, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-jodi-10.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-jodi-10-751.webp</image:loc>
+    <image:title>Jodi (The Couple) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a smiling couple standing together in formal Indian dress, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-subah-11.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-subah-11-751.webp</image:loc>
+    <image:title>Subah (Early Light) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a moustached man in glasses and a light shirt against a soft pink wash, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-swami-12.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-swami-12-751.webp</image:loc>
+    <image:title>Swami (The Sage) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a bearded sage in saffron robes wearing a rudraksha bead necklace, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-pandit-13.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-pandit-13-1000.webp</image:loc>
+    <image:title>Pandit (The Scholar) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a man in glasses and a moustache, painted in a monochrome grey wash, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-portrait-utsav-14.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-portrait-utsav-14-1000.webp</image:loc>
+    <image:title>Utsav (Festive) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour portrait of a woman in a pink sari seated outdoors against palms, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-dosti-01.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-dosti-01-1000.webp</image:loc>
+    <image:title>Dosti (Companions) — Graphite and charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Pencil and charcoal drawing of a smiling couple, an informal two-figure study from life, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-hasyaras-02.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-hasyaras-02-1000.webp</image:loc>
+    <image:title>Hāsyaras (The Joke) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil drawing of two men laughing together with an arm around the shoulder, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-maa-03.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-maa-03-1000.webp</image:loc>
+    <image:title>Maa (Mother and Child) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil drawing of a mother holding her young child close in a protective embrace, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-kaam-04.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-kaam-04-1000.webp</image:loc>
+    <image:title>Kaam (Hands at Work) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of four hands holding and using charcoal and pencil drawing tools, an anatomy drawing study, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-sparsh-05.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-sparsh-05-1000.webp</image:loc>
+    <image:title>Sparsh (The Touch) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of two hands clasped together, an anatomy drawing study, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-charcoal-sketch-tejas-06.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-charcoal-sketch-tejas-06-751.webp</image:loc>
+    <image:title>Tejas (Radiance) — Charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Charcoal portrait of a smiling young man with a tilak mark on his forehead, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-topiwala-07.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-topiwala-07-751.webp</image:loc>
+    <image:title>Topiwala (The Capped Man) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of an elderly bearded man in spectacles wearing a dark fez cap, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-vichar-08.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-vichar-08-751.webp</image:loc>
+    <image:title>Vichar (Thought) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of a seated man in spectacles resting his chin on his hand, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-sanj-09.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-sanj-09-751.webp</image:loc>
+    <image:title>Sanj (Evening) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a young woman with long dark hair in a patterned blouse, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-hasyamukti-10.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-hasyamukti-10-751.webp</image:loc>
+    <image:title>Hasyamukti (Laughter) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of an older man in spectacles laughing openly, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-asha-11.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-asha-11-751.webp</image:loc>
+    <image:title>Asha (Hope) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a young woman looking up and smiling, drawn in soft shading, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-chhokra-12.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-chhokra-12-751.webp</image:loc>
+    <image:title>Chhokra (The Boy) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a boy with a quiff hairstyle in a striped jacket, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-charcoal-sketch-nishchay-13.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-charcoal-sketch-nishchay-13-751.webp</image:loc>
+    <image:title>Nishchay (Resolve) — Charcoal on paper by Sachin Musale</image:title>
+    <image:caption>Charcoal portrait of a bearded man in a plaid jacket over a collared shirt, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-musafir-14.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-musafir-14-751.webp</image:loc>
+    <image:title>Musafir (The Traveller) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil portrait of a bearded man wearing an embroidered skull cap, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-pencil-sketch-navras-15.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-pencil-sketch-navras-15-751.webp</image:loc>
+    <image:title>Navras (Wonder) — Graphite on paper by Sachin Musale</image:title>
+    <image:caption>Pencil study of a small child looking up with an open mouth, head and shoulders, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-deul-01.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-deul-01-1000.webp</image:loc>
+    <image:title>Deul (Temple Path) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a white temple with a shikhara spire seen down a leafy village path with a figure walking, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-kinara-02.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-kinara-02-1000.webp</image:loc>
+    <image:title>Kināra (The Shore) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of wooden fishing boats resting on wet sand at low tide with a lone figure on the shoreline, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-ghat-03.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-ghat-03-1000.webp</image:loc>
+    <image:title>Ghat (Riverside Steps) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a riverside ghat and stone bridge with figures walking along a tree-lined bank, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-sandhyakal-04.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-sandhyakal-04-1000.webp</image:loc>
+    <image:title>Sandhyākāl (Dusk on the Water) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of boats moored on still, misty water at dusk with the far bank reflected, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-ves-05.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-ves-05-1000.webp</image:loc>
+    <image:title>Ves (Old Town) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a sunny old-town street corner with a shuttered building and overhead wires, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-nandi-06.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-nandi-06-1000.webp</image:loc>
+    <image:title>Nandi (The Waiting Bull) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour study of a large stone Nandi bull sculpture with a garland, the mount of Lord Shiva, against a pale wash, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-bagicha-07.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bagicha-07-1000.webp</image:loc>
+    <image:title>Bagicha (The Terrace Garden) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a formal terrace garden with a stone balustrade and shade trees, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-jal-mahal-08.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-jal-mahal-08-933.webp</image:loc>
+    <image:title>Jal Mahal (Palace on the Water) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a domed palace pavilion standing in a lake, reflected in rippling blue water, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-gaadi-09.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-gaadi-09-1000.webp</image:loc>
+    <image:title>Gaadi (The Bullock Cart) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a bullock cart loaded with green fodder on a village road with a building beyond, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-bangla-10.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bangla-10-1000.webp</image:loc>
+    <image:title>Bangla (The Old Bungalow) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a colonial bungalow with a long tree-lined driveway and a figure walking, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-tal-11.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-tal-11-1000.webp</image:loc>
+    <image:title>Tal (The Palm Court) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a garden path with tall palms, a pavilion and steps under a blue sky, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-sanjvela-12.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-sanjvela-12-750.webp</image:loc>
+    <image:title>Sanjvela (Evening Ride) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a street at dusk with a scooter rider, a street lamp and hills beyond, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-pahaat-13.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-pahaat-13-1000.webp</image:loc>
+    <image:title>Pahaat (First Light) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a ploughed field at sunrise under a graded orange and blue sky with birds, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-hima-14.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-hima-14-998.webp</image:loc>
+    <image:title>Hima (Winter Village) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a snow-covered village with a bright orange house and bare trees under a heavy sky, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-dhuka-15.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-dhuka-15-1000.webp</image:loc>
+    <image:title>Dhukā (The Mist) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of misty parkland at sunrise with tall trees casting long shadows and a distant figure, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-galli-17.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-galli-17-1000.webp</image:loc>
+    <image:title>Galli (The Lane) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a leafy lane with a white gate and a dog on the path, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-bakuli-18.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-bakuli-18-1000.webp</image:loc>
+    <image:title>Bakuli (Herons at Dawn) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a calm lake at dawn with herons standing in the shallows beside a stone embankment, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-landscape-dhara-19.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-landscape-dhara-19-751.webp</image:loc>
+    <image:title>Dhārā (The Waterfall) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour landscape of a waterfall cascading over rocks with buildings and an arched bridge beside it, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-conceptual-conceptual-dhyan-01.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-conceptual-conceptual-dhyan-01-751.webp</image:loc>
+    <image:title>Dhyan (Meditation) — Mixed media on canvas by Sachin Musale</image:title>
+    <image:caption>Atmospheric painting of a serene Buddha head wearing a jewelled crown, emerging from darkness in warm earth tones, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-conceptual-conceptual-panna-02.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-conceptual-conceptual-panna-02-751.webp</image:loc>
+    <image:title>Panna (The Emerald Buddha) — Mixed media on canvas by Sachin Musale</image:title>
+    <image:caption>Painting of a seated Buddha figure rendered in luminous green tones against a dark ground, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-bhar-03.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-bhar-03-707.webp</image:loc>
+    <image:title>Bhar (The Burden) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a labourer carrying a loaded yoke across his shoulders against a large glowing sky, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-goshta-04.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-goshta-04-750.webp</image:loc>
+    <image:title>Goshta (Story Time) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a young girl sitting reading a book with a doll hanging on the wall above her, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-shal-05.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-shal-05-751.webp</image:loc>
+    <image:title>Shāl (The Shawl) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a seated woman wrapped in a shawl leaning against a weathered wall, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-oil-conceptual-kamal-06.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-oil-conceptual-kamal-06-715.webp</image:loc>
+    <image:title>Kamal (The Flower Seller's Son) — Oil on canvas by Sachin Musale</image:title>
+    <image:caption>Oil painting of a young boy seated beside a basket of pink water lilies against a deep green wall, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-chadhai-07.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-chadhai-07-770.webp</image:loc>
+    <image:title>Chadhai (The Climb) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of a long stone stairway climbing a bare hillside under a pale sky, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
+<url>
+  <loc>https://www.sachinmusale.com/artworks/sachin-musale-watercolour-conceptual-yatra-08.html</loc>
+  <lastmod>2026-09-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+  <image:image>
+    <image:loc>https://www.sachinmusale.com/assets/img/full/sachin-musale-watercolour-conceptual-yatra-08-769.webp</image:loc>
+    <image:title>Yatra (Pilgrims) — Watercolour on paper by Sachin Musale</image:title>
+    <image:caption>Watercolour painting of pilgrims with umbrellas entering a rock-cut cave complex on a wet day, by artist Sachin Musale</image:caption>
+  </image:image>
+</url>
 </urlset>

@@ -8,7 +8,20 @@
 <meta http-equiv="refresh" content="0; url=../exhibitions.html">
 <style>body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:#fbfaf7;
 color:#171410;margin:0;display:flex;min-height:100vh;align-items:center;justify-content:center;text-align:center;padding:24px}
-a{color:#9c4a21}p{max-width:44ch;line-height:1.6}</style>
+a{color:#9c4a21}p{max-width:44ch;line-height:1.6}
+/* --- touch targets: WCAG 2.5.8 / mobile tap sizing (added 2026-09-17) --- */
+@media(max-width:900px){
+ footer.site li{margin-bottom:0}
+ footer.site li a{display:inline-block;padding:12px 0}
+ .burger{min-height:44px}
+ .crumb a{display:inline-block;padding:5px 0}
+ .filters a{min-height:44px;display:inline-flex;align-items:center}
+ .btn,button{min-height:44px}
+ .contact-list li a{display:inline-block;padding:11px 0}
+ .prevnext a{display:inline-block;padding:11px 0}
+ .skip:focus{padding:14px 18px;min-height:44px}
+}
+</style>
 </head>
 <body>
 <div>

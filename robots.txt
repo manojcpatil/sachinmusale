@@ -1,4 +1,9 @@
+# https://www.sachinmusale.com/robots.txt
 User-agent: *
 Allow: /
+
+# Old WordPress theme demo paths. They are crawlable on purpose: each one is a
+# noindex,follow stub that redirects to the page that replaced it, so any link
+# equity pointing at the old URL still flows through.
 
 Sitemap: https://www.sachinmusale.com/sitemap.xml

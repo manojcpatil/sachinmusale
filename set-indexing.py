@@ -15,7 +15,7 @@ import os, re, sys
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 NOINDEX = '<meta name="robots" content="noindex,nofollow">'
-INDEX   = '<meta name="robots" content="index,follow">'
+INDEX   = '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">'
 SKIP_DIRS = {'shortcodes', 'portfolio'}
 
 def pages():
